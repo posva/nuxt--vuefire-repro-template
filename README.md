@@ -12,13 +12,13 @@ pnpm install
 
 ## Development Server
 
-Start the emulators:
+Start the emulators first:
 
 ```bash
 pnpm run emulators
 ```
 
-Start the development server on `http://localhost:3000`:
+**Once they are running**, start the development server on `http://localhost:3000`:
 
 ```bash
 pnpm run dev

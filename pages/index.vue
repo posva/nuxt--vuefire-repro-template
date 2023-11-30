@@ -3,10 +3,10 @@ import {
   doc,
   increment,
   serverTimestamp,
-  Timestamp,
+  type Timestamp,
   setDoc,
   updateDoc,
-  DocumentData,
+  type DocumentData,
 } from 'firebase/firestore'
 
 const today = new Date().toISOString().slice(0, 10)

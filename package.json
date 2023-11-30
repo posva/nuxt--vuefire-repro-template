@@ -9,17 +9,17 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^0.7.4",
-    "@types/node": "^18.17.1",
-    "firebase-tools": "^12.4.6",
-    "nuxt": "^3.6.5"
+    "@nuxt/devtools": "^1.0.4",
+    "@types/node": "^20.10.1",
+    "firebase-tools": "^12.9.1",
+    "nuxt": "^3.8.2"
   },
   "dependencies": {
     "@firebase/app-types": "^0.9.0",
-    "firebase": "^10.1.0",
-    "firebase-admin": "^11.10.1",
-    "firebase-functions": "^4.4.1",
-    "nuxt-vuefire": "^0.2.13",
-    "vuefire": "^3.1.13"
+    "firebase": "^10.7.0",
+    "firebase-admin": "^11.11.1",
+    "firebase-functions": "^4.5.0",
+    "nuxt-vuefire": "^0.4.1",
+    "vuefire": "^3.1.18"
   }
 }
